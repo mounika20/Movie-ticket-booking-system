@@ -1,0 +1,11 @@
+0	Tirumala
+1	Satyanarayana
+2	Venkatarama
+3	Venkatakrishna
+4	Gayatri
+5	Alankar
+6	R.k
+7	Ganesh
+8	Apsara
+9	Srirama
+10	Ramba
